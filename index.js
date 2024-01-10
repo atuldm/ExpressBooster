@@ -1,4 +1,4 @@
-const { Server, config } = require('../expressbooster');
+const { Server, config } = require('expressbooster');
 const server = new Server();
 const app = require('express')();
 
