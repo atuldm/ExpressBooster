@@ -5,7 +5,7 @@ router.get('/home',(req, res)=>{
 })
 
 router.get('/about',(req, res)=>{
-	res.send('Welcome to abour!');
+	res.send('Welcome to about!');
 })
 
 module.exports = router;
